@@ -9,7 +9,7 @@ name = input("What's your name? ")
 #String concentration in python
 print("Hello,", name)
 
-#using end=" " to end the string with space
+#using end=" " to end the string with $$$
 print("Hello,", end="$$$")
 print(name)
 #Output= Hello,$$$Tuhin
@@ -18,3 +18,6 @@ print(name)
 print("Hello,", name, sep='???')
 print(name)
 #Output = Hello,???Tuhin
+
+#Double or single quots indide a double or single quote
+print("Hello, \"friend\"")
